@@ -1,0 +1,67 @@
+.about-us {
+    color: blue;
+}
+
+.skills {
+    color: red;
+    
+}
+
+.portfolio {
+    color: yellow;
+}
+
+.contact {
+    color: green;
+}
+
+#about-us {
+    background-color: indianred;
+}
+
+.rectangle {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 10px; 
+}
+
+.kwadrat {
+    width: 100px;
+    height: 100px;
+    background-color: mediumorchid;
+    margin-top: 10px;
+}
+
+.one {
+    background-color: khaki; 
+}
+
+.two {
+    background-color: lightcoral;
+}
+
+.three {
+    background-color: lightslategrey;
+}
+
+.four {
+    background-color: lime;  
+}
+
+.jeden {
+    border: 10px solid yellow;
+}
+
+.dwa {
+    border: 10px solid green;
+}
+
+.trzy {
+    border: 10px solid black;
+}
+
+.btn {
+    background-color: darkorange;
+    color: darkmagenta
+}
